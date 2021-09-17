@@ -1,0 +1,10 @@
+.chatInitial {
+  display: flex;
+  flex-direction: column;
+  flex: 0.65;
+}
+
+.chatInitial > img {
+  height: 100%;
+  object-fit: contain;
+}
